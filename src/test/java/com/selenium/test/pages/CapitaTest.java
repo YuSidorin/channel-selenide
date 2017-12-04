@@ -22,7 +22,7 @@ public class CapitaTest {
 
         open("https://www.traektoria.ru/product/310205_snoubord-capita-spring-break-slush-slasher/");
 
-        $(By.className("soon_textdgseg")).shouldBe(Condition.visible);
+        $(By.className("soon_text")).shouldBe(Condition.visible);
 
     }
 }
