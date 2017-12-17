@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3e670bc-1c4d-4f8c-ae4b-2b4acd70f6b9" name="Default" comment="">
+    <list default="true" id="f3e670bc-1c4d-4f8c-ae4b-2b4acd70f6b9" name="Default" comment="new tests">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="selenide-tests-example.iws" />
@@ -34,7 +34,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CapitaTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CapitaTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/test/pages/CapitaTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="233">
@@ -46,55 +46,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
               <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-              <folding>
-                <marker date="1513507465745" expanded="true" signature="63875:63992" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="63875:64010" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="63875:64023" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="63875:64038" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="63894:63975" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="64073:66661" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="64086:66646" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="64140:64435" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="64159:64420" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="64222:64400" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="64262:64366" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="64283:64344" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="64485:64812" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="64504:64797" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="64599:64777" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="64639:64743" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="64660:64721" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="64863:65128" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="64882:65113" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="64915:65093" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="64955:65059" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="64976:65037" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="65171:65477" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="65190:65462" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="65264:65442" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="65304:65408" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="65325:65386" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="65528:65892" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="65547:65877" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="65640:65857" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="65680:65823" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="65701:65801" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="65927:66245" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="65946:66230" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="66032:66210" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="66072:66176" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="66093:66154" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="66297:66632" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="66316:66617" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="66419:66597" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="66459:66563" ph="..." />
-                <marker date="1513507465745" expanded="true" signature="66480:66541" ph="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -615,7 +572,7 @@
       <workItem from="1511465524359" duration="1925000" />
       <workItem from="1512214556315" duration="10600000" />
       <workItem from="1512247848547" duration="8473000" />
-      <workItem from="1513498927351" duration="6599000" />
+      <workItem from="1513498927351" duration="6650000" />
     </task>
     <task id="LOCAL-00001" summary="testng annotations">
       <created>1512331818426</created>
@@ -645,7 +602,14 @@
       <option name="project" value="LOCAL" />
       <updated>1513507427119</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new tests">
+      <created>1513507529161</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1513507529161</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -681,10 +645,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27612000" />
+    <option name="totallyTimeSpent" value="27663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -692,10 +657,10 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5229358" sideWeight="0.50416666" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19380733" sideWeight="0.50416666" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18489583" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912844" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5229358" sideWeight="0.49583334" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19380733" sideWeight="0.49583334" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -927,57 +892,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-          <folding>
-            <marker date="1513507465745" expanded="true" signature="63875:63992" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="63875:64010" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="63875:64023" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="63875:64038" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="63894:63975" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="64073:66661" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="64086:66646" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="64140:64435" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="64159:64420" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="64222:64400" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="64262:64366" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="64283:64344" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="64485:64812" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="64504:64797" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="64599:64777" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="64639:64743" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="64660:64721" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="64863:65128" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="64882:65113" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="64915:65093" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="64955:65059" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="64976:65037" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="65171:65477" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="65190:65462" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="65264:65442" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="65304:65408" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="65325:65386" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="65528:65892" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="65547:65877" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="65640:65857" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="65680:65823" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="65701:65801" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="65927:66245" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="65946:66230" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="66032:66210" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="66072:66176" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="66093:66154" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="66297:66632" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="66316:66617" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="66419:66597" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="66459:66563" ph="..." />
-            <marker date="1513507465745" expanded="true" signature="66480:66541" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/test/pages/CapitaTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
@@ -985,6 +899,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
