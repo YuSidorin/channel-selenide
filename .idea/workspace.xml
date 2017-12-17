@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3e670bc-1c4d-4f8c-ae4b-2b4acd70f6b9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/com/selenium/test/pages/Capita.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/selenium/test/pages/CapitaTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/test/pages/CapitaTest.java" />
     </list>
     <ignored path="selenide-tests-example.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,10 +37,63 @@
       <file leaf-file-name="CapitaTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/test/pages/CapitaTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="233">
+              <caret line="31" column="136" lean-forward="false" selection-start-line="31" selection-start-column="136" selection-end-line="31" selection-end-column="136" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+              <folding>
+                <marker date="1513507374559" expanded="true" signature="63343:63464" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="63343:63482" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="63343:63495" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="63343:63510" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="63366:63447" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="63545:66133" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="63558:66118" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="63612:63907" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="63631:63892" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="63694:63872" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="63734:63838" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="63755:63816" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="63957:64284" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="63976:64269" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="64071:64249" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="64111:64215" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="64132:64193" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="64335:64600" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="64354:64585" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="64387:64565" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="64427:64531" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="64448:64509" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="64643:64949" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="64662:64934" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="64736:64914" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="64776:64880" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="64797:64858" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="65000:65364" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="65019:65349" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="65112:65329" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="65152:65295" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="65173:65273" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="65399:65717" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="65418:65702" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="65504:65682" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="65544:65648" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="65565:65626" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="65769:66104" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="65788:66089" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="65891:66069" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="65931:66035" ph="..." />
+                <marker date="1513507374559" expanded="true" signature="65952:66013" ph="..." />
               </folding>
             </state>
           </provider>
@@ -216,6 +267,11 @@
             </path>
             <path>
               <item name="selenide-tests-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="channel-selenide" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenide-tests-example" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -263,6 +319,102 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG.CapitaTest">
+    <configuration name="C:/Users/xepo/.IntelliJIdea2017.2/system/temp-testng-customsuite.xml (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.test.pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="selenide-tests-example" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$USER_HOME$/.IntelliJIdea2017.2/system/temp-testng-customsuite.xml" />
+      <option name="PACKAGE_NAME" value="com.selenium.test.pages" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.test.pages.CapitaTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="C:/Users/xepo/.IntelliJIdea2017.2/system/temp-testng-customsuite.xml (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.test.pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="selenide-tests-example" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$USER_HOME$/.IntelliJIdea2017.2/system/temp-testng-customsuite.xml" />
+      <option name="PACKAGE_NAME" value="com.selenium.test.pages" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.test.pages.CapitaTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="C:/Users/xepo/.IntelliJIdea2017.2/system/temp-testng-customsuite.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.test.pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="selenide-tests-example" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$USER_HOME$/.IntelliJIdea2017.2/system/temp-testng-customsuite.xml" />
+      <option name="PACKAGE_NAME" value="com.selenium.test.pages" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.test.pages.CapitaTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
     <configuration name="Capita" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -344,31 +496,6 @@
       <envs />
       <properties />
       <listeners />
-    </configuration>
-    <configuration name="Capita.verifySoonTextOnPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.selenium.test.pages.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="selenide-tests-example" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.selenium.test.pages" />
-      <option name="MAIN_CLASS_NAME" value="com.selenium.test.pages.Capita" />
-      <option name="METHOD_NAME" value="verifySoonTextOnPage" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <module />
@@ -456,37 +583,20 @@
       <Host>localhost</Host>
       <Port>5050</Port>
     </configuration>
-    <configuration name="null" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="selenide-tests-example" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.selenium.test.pages" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.Capita.verifySoonTextOnPage" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.Capita" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.null" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.CapitaTest" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.Capita" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.CapitaTest" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.C:/Users/xepo/.IntelliJIdea2017.2/system/temp-testng-customsuite.xml" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.C:/Users/xepo/.IntelliJIdea2017.2/system/temp-testng-customsuite.xml (1)" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.C:/Users/xepo/.IntelliJIdea2017.2/system/temp-testng-customsuite.xml (2)" />
     </list>
     <recent_temporary>
-      <list size="3">
+      <list size="5">
         <item index="0" class="java.lang.String" itemvalue="TestNG.CapitaTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.Capita" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.null" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/xepo/.IntelliJIdea2017.2/system/temp-testng-customsuite.xml (2)" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.C:/Users/xepo/.IntelliJIdea2017.2/system/temp-testng-customsuite.xml (1)" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.C:/Users/xepo/.IntelliJIdea2017.2/system/temp-testng-customsuite.xml" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.Capita" />
       </list>
     </recent_temporary>
   </component>
@@ -504,7 +614,7 @@
       <workItem from="1511465524359" duration="1925000" />
       <workItem from="1512214556315" duration="10600000" />
       <workItem from="1512247848547" duration="8473000" />
-      <workItem from="1513498927351" duration="1067000" />
+      <workItem from="1513498927351" duration="6517000" />
     </task>
     <task id="LOCAL-00001" summary="testng annotations">
       <created>1512331818426</created>
@@ -513,43 +623,57 @@
       <option name="project" value="LOCAL" />
       <updated>1512331818427</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="testng annotations">
+      <created>1513500697277</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1513500697277</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new tests">
+      <created>1513507419704</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1513507419704</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CapitaTest - 2017.12.04 at 07h 09m 55s.xml">
+    <history-entry file="C__Users_xepo__IntelliJIdea2017_2_system_temp-testng-customsuite_xml - 2017.12.17 at 12h 41m 39s.xml">
+      <configuration name="C:/Users/xepo/.IntelliJIdea2017.2/system/temp-testng-customsuite.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_xepo__IntelliJIdea2017_2_system_temp-testng-customsuite_xml_(1) - 2017.12.17 at 13h 37m 18s.xml">
+      <configuration name="C:/Users/xepo/.IntelliJIdea2017.2/system/temp-testng-customsuite.xml (1)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_xepo__IntelliJIdea2017_2_system_temp-testng-customsuite_xml_(2) - 2017.12.17 at 13h 38m 02s.xml">
+      <configuration name="C:/Users/xepo/.IntelliJIdea2017.2/system/temp-testng-customsuite.xml (2)" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CapitaTest - 2017.12.17 at 12h 03m 15s.xml">
       <configuration name="CapitaTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Capita_(1) - 2017.12.03 at 00h 18m 55s.xml">
-      <configuration name="Capita (1)" configurationId="JUnit" />
+    <history-entry file="CapitaTest - 2017.12.17 at 12h 14m 53s.xml">
+      <configuration name="CapitaTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Capita_(1) - 2017.12.03 at 00h 26m 04s.xml">
-      <configuration name="Capita (1)" configurationId="JUnit" />
+    <history-entry file="CapitaTest - 2017.12.17 at 12h 18m 38s.xml">
+      <configuration name="CapitaTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Capita_(1) - 2017.12.03 at 10h 43m 51s.xml">
-      <configuration name="Capita (1)" configurationId="JUnit" />
+    <history-entry file="CapitaTest - 2017.12.17 at 12h 20m 44s.xml">
+      <configuration name="CapitaTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Capita_(1) - 2017.12.03 at 13h 32m 33s.xml">
-      <configuration name="Capita (1)" configurationId="JUnit" />
+    <history-entry file="CapitaTest - 2017.12.17 at 13h 32m 42s.xml">
+      <configuration name="CapitaTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Capita_(1) - 2017.12.03 at 22h 39m 41s.xml">
-      <configuration name="Capita (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Capita_(1) - 2017.12.03 at 22h 49m 29s.xml">
-      <configuration name="Capita (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Capita_verifySoonTextOnPage_(1) - 2017.12.03 at 00h 25m 07s.xml">
-      <configuration name="Capita.verifySoonTextOnPage (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Capita_verifySoonTextOnPage_(1) - 2017.12.03 at 00h 27m 11s.xml">
-      <configuration name="Capita.verifySoonTextOnPage (1)" configurationId="JUnit" />
+    <history-entry file="CapitaTest - 2017.12.17 at 13h 42m 47s.xml">
+      <configuration name="CapitaTest" configurationId="TestNG" />
     </history-entry>
     <history-entry file="Capita_verifySoonTextOnPage_(1) - 2017.12.03 at 00h 29m 39s.xml">
       <configuration name="Capita.verifySoonTextOnPage (1)" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22080000" />
+    <option name="totallyTimeSpent" value="27530000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -557,13 +681,14 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914287" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5229358" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4174312" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18489583" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912844" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5229358" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5229358" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -582,7 +707,6 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914287" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -624,6 +748,32 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
       <collection />
@@ -636,8 +786,11 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="testng annotations" />
-    <option name="LAST_COMMIT_MESSAGE" value="testng annotations" />
+    <MESSAGE value="new tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="new tests" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -767,10 +920,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <marker date="1513507374559" expanded="true" signature="63343:63464" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="63343:63482" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="63343:63495" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="63343:63510" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="63366:63447" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="63545:66133" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="63558:66118" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="63612:63907" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="63631:63892" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="63694:63872" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="63734:63838" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="63755:63816" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="63957:64284" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="63976:64269" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="64071:64249" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="64111:64215" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="64132:64193" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="64335:64600" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="64354:64585" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="64387:64565" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="64427:64531" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="64448:64509" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="64643:64949" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="64662:64934" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="64736:64914" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="64776:64880" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="64797:64858" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="65000:65364" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="65019:65349" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="65112:65329" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="65152:65295" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="65173:65273" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="65399:65717" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="65418:65702" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="65504:65682" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="65544:65648" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="65565:65626" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="65769:66104" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="65788:66089" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="65891:66069" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="65931:66035" ph="..." />
+            <marker date="1513507374559" expanded="true" signature="65952:66013" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/test/pages/CapitaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="233">
+          <caret line="31" column="136" lean-forward="false" selection-start-line="31" selection-start-column="136" selection-end-line="31" selection-end-column="136" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
