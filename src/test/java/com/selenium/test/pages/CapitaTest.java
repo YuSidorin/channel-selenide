@@ -31,4 +31,9 @@ public class CapitaTest {
         open ("https://www.traektoria.ru/brand/capita/");
         $$(By.xpath("//div[@class='p_info_name']")).findBy((Condition.text("Сноуборд CAPITA SPRING BREAK - SLUSH SLASHER"))).shouldNotBe(Condition.visible);
     }
+    @Test
+    public void verifyMetallicaTickets() {
+        open ("https://msk.kassir.ru/koncert/ok-lujniki/metallica-worldwired-tour-2019_2019-07-21");
+        $$(By.xpath("//*[@id=\"prices\"]/table")).findBy((Condition.text("ФАН-ЗОНА"))).shouldNotBe(Condition.visible);
+    }
 }
