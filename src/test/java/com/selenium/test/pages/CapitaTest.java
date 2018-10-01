@@ -19,14 +19,14 @@ public class CapitaTest {
         Configuration.browser="Chrome";
     }
 
-    @Test
+    @Test (enabled = false)
     public void verifySoonTextOnPage() {
 
         open("https://www.traektoria.ru/product/310205_snoubord-capita-spring-break-slush-slasher/");
 
         $(By.className("nothing_text")).shouldBe(Condition.visible);
     }
-    @Test
+    @Test (enabled = false)
     public void verifySlusher() {
         open ("https://www.traektoria.ru/brand/capita/");
         $$(By.xpath("//div[@class='p_info_name']")).findBy((Condition.text("Сноуборд CAPITA SPRING BREAK - SLUSH SLASHER"))).shouldNotBe(Condition.visible);
